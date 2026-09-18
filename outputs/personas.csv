@@ -1,0 +1,3 @@
+Cluster,Nom_persona,Clients,Description
+0,Segment 0 — Valeur modérée / Dormants,"Charlie, Eva","Clients à valeur modérée, peu actifs / dormants. Âge moyen 24 ans, dépense moyenne 375€, 0.5 achat(s) en moyenne sur la période."
+1,Segment 1 — Forte valeur / Actifs,"Alice, Bob, Diana","Clients à forte valeur, actifs (achats fréquents). Âge moyen 31 ans, dépense moyenne 617€, 1.3 achat(s) en moyenne sur la période."
