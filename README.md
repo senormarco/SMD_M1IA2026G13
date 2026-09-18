@@ -51,7 +51,7 @@ Projet_SMD/
 │   ├── customers_segmented.csv
 │   └── personas.csv
 │
-├── SMD_corrige.ipynb
+├── SMD_notebook.ipynb
 ├── dashboard.py
 ├── requirements.txt
 └── README.md
@@ -61,7 +61,7 @@ Projet_SMD/
 
 # 4. Description des fichiers
 
-## `SMD_corrige.ipynb`
+## `SMD_notebook.ipynb`
 
 Le notebook contient les principales étapes d'analyse :
 
